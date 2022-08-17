@@ -2,8 +2,8 @@
 # Use helm deploy release into kubernetes
 
 ## Getting Started
-Install helm version latest.
-File config of kubernetest in **~/.kube** folder.
+- Install **helm** version latest.
+- File **config** of kubernetest in **~/.kube** folder.
 
 ## Deploy release to k8s
 ```
