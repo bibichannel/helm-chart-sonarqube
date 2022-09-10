@@ -7,7 +7,7 @@
 
 ## Deploy release to k8s
 ```
-helm upgrade --install --config --debug --kubeconfig ~/.kube/config --create-namespace --namespace sonarqube sonarqube sonarqube/
+helm upgrade --install --debug --kubeconfig ~/.kube/config --create-namespace --namespace sonarqube sonarqube sonarqube/
 ```
 
 ## Check release
